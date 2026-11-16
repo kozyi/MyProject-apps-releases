@@ -10,7 +10,7 @@
 | MyBrowser | 동영상 보기용 브라우저 (탭, 반화면 전체화면) | [MyBrowser.exe v1.0.1](https://github.com/kozyi/MyProject-apps-releases/releases/download/MyBrowser-v1.0.1/MyBrowser.exe) |
 | MyView | 이미지 뷰어 | [MyView.exe v0.1.1](https://github.com/kozyi/MyProject-apps-releases/releases/download/MyView-v0.1.1/MyView.exe) |
 | MyCapture | 화면 캡처와 편집 (PrtSc) | [MyCapture.exe v1.0.2](https://github.com/kozyi/MyProject-apps-releases/releases/download/MyCapture-v1.0.2/MyCapture.exe) |
-| MyBible | 성경 읽기 (Bethlehem 성경 데이터 필요) | [MyBible.exe v1.0.0](https://github.com/kozyi/MyProject-apps-releases/releases/download/MyBible-v1.0.0/MyBible.exe) |
+| MyBible | 성경 읽기 | [MyBible.exe v1.0.0](https://github.com/kozyi/MyProject-apps-releases/releases/download/MyBible-v1.0.0/MyBible.exe) |
 
 ## 받기
 
